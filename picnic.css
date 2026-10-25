@@ -1,0 +1,61 @@
+    body {
+        background-color: white;
+        font-family: Arial;
+    }
+
+    .poster {
+        background-image:url("https://cdn.discordapp.com/attachments/1554353493710741504/1563317596642611280/IMG-20261024-WA0009_1.jpg?ex=6ade81f8&is=6add3078&hm=772a76ecca4b2a5f27e7382a59aff2f0bc067143f9966169963d59076345c74b");
+        background-size: 100% 100%;
+        width: 600px;
+        height: 900px;
+        margin: auto;
+        text-align: center;
+        padding-top: 40px;
+        box-sizing: border-box;
+    }
+
+    h1 {
+        font-size: 55px;
+        color: rgb(46, 148, 202);
+        text-shadow: 3px 4px rgb(18, 16, 2);
+        margin: 15px 0;
+    }
+
+    h2 {
+        color: rgb(231, 213, 51);
+        font-size: 28px;
+        margin-top: 65px;
+    }
+
+    h3 {
+        color: rgb(66, 119, 9);
+        font-size: 22px;
+        margin-top: 15px;
+    }
+
+    .details {
+        margin-top: 65px;
+        font-size: 18px;
+    }
+
+    .details p {
+        margin: 5px;
+    }
+
+    h4 {
+        background-color: #f01111;
+        color: white;
+        width: 220px;
+        padding: 8px;
+        font-size: 16px;
+        text-align: center;
+        margin: 20px auto;
+        clip-path: polygon(
+        0 0,
+        100% 0,
+        92% 50%,
+        100% 100%,
+        0 100%,
+        8% 50%
+        );
+    }
